@@ -1,8 +1,6 @@
 ## Yello! 👋 I'm Matias
 
-[Read my blog](https://mtsknn.fi/blog/)
-and
-[check out my weekly log](https://mtsknn.fi/weekly-log/).
+👉 [Read my blog!](https://mtsknn.fi/blog/)
 
 ---
 
